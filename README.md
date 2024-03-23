@@ -26,4 +26,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama_Seyam&show_icons=true&locale=en&layout=compact" alt="Osama-Seyuam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama_Seyam&show_icons=true&locale=en&layout=compact" alt="Osama-Seyam" /></p>
