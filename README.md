@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Osama-Seyam&label=Profile%20views&color=0e75b6&style=flat" alt="Osama-Seyam" /> </p>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0lJx6TZZgdxyIsLBS2U9Nw.png" alt="DevOps Illustration" width="400"/>
-</p>
 
 - 🔭 I’m currently working on my graduation project **EcoPlant**
 
@@ -16,13 +13,6 @@
 - 💬 Ask me about **BackEnd, Linux, Docker, Kubernetes**
 
 - 📫 How to reach me **osamamostafa065@gmail.com**
-
-<h3 align="left">✨ Certificates:</h3>
-<p align="left"> 
-- PHP & Laravel Fullstack Development
-- Git and GitHub Foundations 
-- Docker Fundamentals
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
