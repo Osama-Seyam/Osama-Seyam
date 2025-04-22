@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Seyam</h1>
-<h3 align="center">Junior Software Developer | Backend & DevOps Enthusiast</h3>
+<h3 align="center">Junior Software Developer | Backend & DevOps</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Osama-Seyam&label=Profile%20views&color=0e75b6&style=flat" alt="Osama-Seyam" /> </p>
 
