@@ -1,4 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif)
+![MasterHead](![DevOps Banner](https://cdn.dribbble.com/users/2059263/screenshots/6137999/devops-loop.gif)
+)
 <h1 align="center">Hi 👋, I'm Osama Seyam</h1>
 <h3 align="center">Junior Software Developer | Backend & DevOps Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
@@ -13,8 +14,6 @@
 - 🌱 I’m currently learning **DevOps and cloud technologies.**
 
 - 👯 I’m open to collaborate on **BackEnd or DevoOps projects.**
-
-- 📝 I regularly write articles on [Cloud-Native](Cloud-Native)
 
 - 💬 Ask me about **BackEnd, Linux, Docker, Kubernetes**
 
