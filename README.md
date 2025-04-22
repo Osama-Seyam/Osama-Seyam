@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Osama-Seyam&label=Profile%20views&color=0e75b6&style=flat" alt="Osama-Seyam" /> </p>
 
-<p align="left">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/4187799/devops.gif" alt="DevOps Animation" width="250"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0lJx6TZZgdxyIsLBS2U9Nw.png" alt="DevOps Illustration" width="400"/>
 </p>
 
 - 🔭 I’m currently working on my graduation project **EcoPlant**
