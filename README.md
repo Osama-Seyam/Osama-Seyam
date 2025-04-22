@@ -1,5 +1,3 @@
-![DevOps Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JqZmZzbXc3NzZ1Y29oZTZkNjJoZWJwZGNkMzR3enU1MW5ycmh3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)
-
 <h1 align="center">Hi 👋, I'm Osama Seyam</h1>
 <h3 align="center">Junior Software Developer | Backend & DevOps Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
